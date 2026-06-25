@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  <a href="www.linkedin.com/in/anupriya-t-v/">
+  <a href="https://www.linkedin.com/in/anupriya-t-v/">
     <img src="https://img.shields.io/badge/LinkedIn-0a1628?style=for-the-badge&logo=linkedin&logoColor=E8B4B8"/>
   </a>
   &nbsp;
